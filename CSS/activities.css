@@ -1,0 +1,90 @@
+header{
+	position: fixed;
+	background-color: #ffffff;
+	z-index: 1;
+	margin-top: -27.5px;
+}
+body{
+	background-color: #5b5e5e0f;
+}
+footer{
+	background-color: #ffffff !important;
+}
+#leftlogo{
+	height:10%;
+	width: 10%;
+	display: inline-block;
+	margin-left: 8%
+}
+.top{
+	width: 50%;
+	display: inline-block;
+	margin-left: 6.5%;
+	margin-right: 0%;
+	font-size: 105%;
+}
+#rightlogo{
+	height:10%;
+	width: 10%;
+	display: inline-block;
+	margin-right: 8%;
+}
+.top a{
+	padding: 10px;
+	text-decoration: none;
+	color: #000000;
+	border: 1px solid #ffffff;
+	border-radius: 5px;
+}
+.top a:hover{
+	background-color: #0c0c0c2b;
+}
+.active{
+	background-color: #0c0c0c2b;
+}
+.picture {
+	height: 500px;
+	background-image: url('../images/activitiespage.jpg');
+	background-size: 100% 540px;
+	margin: 0 auto;	
+}
+
+.subscribe{
+	height: 520px;
+	background-image: url('../images/subscribe.jpg');
+	background-size: 100% 500px;
+	background-repeat: no-repeat;
+}
+.endingbrand,.endingcount,.endingtag{
+	margin-top: 80px;
+	width:25%;
+	display: inline-block;
+}
+.endingtag,.endingbrand{
+	margin-right: 7%;	
+}
+.endingtag{
+	margin-left: 11%;
+	float: left;
+	margin-top: 80px; 
+	font-size: 120%;
+}
+.endingcount{
+	float: right;
+	margin-right: 9%;
+}
+.endingbrand {
+	line-height: 50%;
+	width: 15% !important;
+}
+.endingbrand a{
+	text-decoration: none;
+	color: #000000;
+}
+.logo{
+	width: 200px !important;
+	height: 200px !important;
+}
+.last section{
+	background-color: #ffffff !important;
+}

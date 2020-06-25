@@ -1,0 +1,222 @@
+header{
+	position: fixed;
+	background-color: #ffffff;
+	z-index: 1;
+}
+.home-p2,.home-p3,.home-p4 {
+	background-color: #5b5e5e0f;
+}
+footer{
+	background-color: #ffffff !important;
+}
+#leftlogo{
+	height:10%;
+	width: 10%;
+	display: inline-block;
+	margin-left: 8%
+}
+.top{
+	width: 50%;
+	display: inline-block;
+	margin-left: 6%;
+	margin-right: 0%;
+	font-size: 105%;
+}
+#rightlogo{
+	height:10%;
+	width: 10%;
+	display: inline-block;
+	margin-right: 8%;
+}
+.top a{
+	padding: 10px;
+	text-decoration: none;
+	color: #000000;
+	border: 1px solid #ffffff;
+	border-radius: 5px;
+}
+.top a:hover{
+	background-color: #0c0c0c2b;
+}
+#active{
+	background-color: #0c0c0c2b;
+}
+.home-p2 {
+	padding-top: 150px;
+}
+.active{
+	width: 330px;
+	height: 190px;
+	padding-bottom: 15px;
+	-webkit-transition: all 1s ease;
+      -moz-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+        transition: all 1s ease;
+}
+.act{
+	width: 330px;
+	height: 60%;
+	font-size: 110%;
+	margin-left: 11%;
+	padding: 5px;
+	display: inline-block;
+	float: left; 
+	overflow: hidden;
+}
+.branded{
+	width: 330px;
+	height: 190px;
+	padding-bottom: 15px;
+	-webkit-transition: all 1s ease;
+      -moz-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+        transition: all 1s ease;
+}
+.brand{
+	width: 330px;
+	height: 60%;
+	font-size: 110%;
+	margin-left: 3%;
+	padding: 0px;
+	display: inline-block;
+	overflow: hidden; 
+}
+.contact{
+	width: 330px;
+	height: 190px;
+	padding-bottom: 15px;
+	-webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.cont{
+	width: 330px;
+	height: 60%;
+	font-size: 110%;
+	margin-right: 11%;
+	padding: 5px;
+	display: inline-block; 
+	float: right;
+	overflow: hidden;
+}
+.home-p3 h2{
+	margin-left: 35.4%;
+	padding: 30px;
+}
+.active:hover,.contact:hover,.branded:hover {
+	transform: scale(1.15);
+	-webkit-transform: scale(1.15);
+    -moz-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+}
+.pic1,.pic2,.pic3,.pic4,.pic5,.pic6,.pic7{
+	width: 300px;
+	height: 200px;
+	padding-bottom: 15px;
+	-webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.smeds,.penguin,.farmer,.vacherel,.kaavos,.nucrema,.fajr{
+	display: inline-block;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.smeds,.vacherel{
+	margin-left: 11%;
+}
+.penguin,.kaavos{
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.nucrema,.farmer{
+	margin-right: 11%;
+}
+.fajr{
+	margin-left: 37.4%;
+}
+.pic1:hover,.pic2:hover,.pic3:hover,.pic4:hover,.pic5:hover,.pic6:hover,.pic7:hover{
+	transform: scale(1.15);
+	-webkit-transform: scale(1.15);
+    -moz-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+}
+.home-p4 h2{
+	margin-left: 35.4%;
+	padding: 30px;
+}
+.pic8,.pic9,.pic10,.pic11,.pic12,.pic13,.pic14{
+	width: 300px;
+	height: 200px;
+	padding-bottom: 15px;
+	-webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.president,.galbani,.lactel,.ambassador,.santal,.valbreso,.istara{
+	display: inline-block;
+	width: 300px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.president,.ambassador{
+	margin-left: 11%;
+}
+.galbani,.santal{
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.lactel,.valbreso{
+	margin-right: 11%;
+}
+.istara{
+	margin-left: 37.4%;
+}
+.pic8:hover,.pic9:hover,.pic10:hover,.pic11:hover,.pic12:hover,.pic13:hover,.pic14:hover{
+	transform: scale(1.15);
+	-webkit-transform: scale(1.15);
+    -moz-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+}
+.subscribe{
+	height: 520px;
+	background-image: url('../images/subscribe.jpg');
+	background-size: 100% 500px;
+	background-repeat: no-repeat;
+}
+.endingbrand,.endingcount,.endingtag{
+	margin-top: 80px;
+	width:25%;
+	display: inline-block;
+}
+.endingtag,.endingbrand{
+	margin-right: 7%;	
+}
+.endingtag{
+	margin-left: 11%;
+	float: left;
+	margin-top: 80px; 
+	font-size: 120%;
+}
+.endingcount{
+	float: right;
+	margin-right: 9%;
+}
+.endingbrand {
+	line-height: 50%;
+	width: 15% !important;
+}
+.endingbrand a{
+	text-decoration: none;
+	color: #000000;
+}
+.logo{
+	width: 200px !important;
+	height: 200px !important;
+}
+.last section{
+	background-color: #ffffff !important;
+}
